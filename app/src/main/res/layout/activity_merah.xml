@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bin">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="16dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="18dp"
+            android:text="JURUS YANG BERADA DI TINGKATAN SABUK MERAH"
+            android:textAllCaps="true"
+            android:textColor="#800000"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="255dp"
+            android:src="@drawable/teag" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="18dp"
+            android:text="JURUS YANG BERADA DI TINGKATAN SABUK MERAH STRIP 1"
+            android:textAllCaps="true"
+            android:textColor="#800000"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/chi" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="18dp"
+            android:text="JURUS YANG BERADA DI TINGKATAN SABUK MERAH STRIP 2"
+            android:textAllCaps="true"
+            android:textColor="#800000"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/pal"
+            />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bin">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="16dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="14dp"
+            android:textColor="#000080"
+            android:text="1.Ap Chagi"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="275dp"
+            android:layout_height="234dp"
+            android:src="@drawable/cha" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="10dp"
+            android:text="Ap Chagi, yaitu tendangan menyentak ke arah depan, sasaran bisa ke perut dan juga ke kepala"
+            android:textStyle="bold"
+            android:textColor="#232428"/>
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="14dp"
+            android:textColor="#000080"
+            android:text="2.Dollyo Chagi"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="328dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/dolyo" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="10dp"
+            android:text="Dollyo Chagi = Tendangan melingkar depan"
+            android:textStyle="bold"
+            android:textColor="#232428"/>
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="14dp"
+            android:textColor="#000080"
+            android:text="3.Dwi Chagi"
+            android:textStyle="bold" />
+        <ImageView
+            android:layout_width="328dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/dewi" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="10dp"
+            android:text="Dwi Chagi = Tendangan kebelakang
+"
+            android:textStyle="bold"
+            android:textColor="#232428"/>
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="14dp"
+            android:textColor="#000080"
+            android:text="tingkatan sabuk selanjutnya yaitu sabuk kuning"
+            android:textStyle="bold" />
+    </LinearLayout>
+</ScrollView>

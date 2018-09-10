@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bin">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="16dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="14dp"
+            android:textColor="#000080"
+            android:text="1.Joochoom Seogi"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="275dp"
+            android:layout_height="234dp"
+            android:src="@drawable/juchum" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="10dp"
+            android:text="@string/ini"
+            android:textStyle="bold"
+            android:textColor="#000080"/>
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="14dp"
+            android:textColor="#000080"
+            android:text="2.Momtong Jireugi"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="328dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jireugi" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="10dp"
+            android:text="@string/itu"
+            android:textStyle="bold"
+            android:textColor="#000080"/>
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="14dp"
+            android:textColor="#000080"
+            android:text="3.Eolgoul Jireugi"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="328dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/egoul" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="10dp"
+            android:text="Adalah gerakan pukulan yang mengarah atas kepala. Gerakan ini dilakukan dengan cara posisi salah satu tangan yang menggegam ke arah atas kepala dengan tangan yang satu hanya menggegam.
+"
+
+
+
+            android:textStyle="bold"
+            android:textColor="#000080"/>
+    </LinearLayout>
+</ScrollView>

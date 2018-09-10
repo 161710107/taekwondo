@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bin">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="16dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="18dp"
+            android:text="
+
+
+            TEKNIK TINGKAT SABUK : HIJAU – HIJAU STRIP GEUP : VII-VI"
+            android:textAllCaps="true"
+            android:textColor="#ca1414"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="14dp"
+            android:textColor="#000080"
+            android:text="1.Ball Badad"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="275dp"
+            android:layout_height="234dp"
+            android:src="@drawable/bal" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="10dp"
+            android:text=" Ball Badad : Tendangan mendorong dengan seluruh bagian telapak kaki"
+            android:textStyle="bold"
+            android:textColor="#232428"/>
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="14dp"
+            android:textColor="#000080"
+            android:text="2.Mad badad chagi  "
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="328dp"
+            android:layout_height="195dp"
+            android:src="@drawable/mad" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="10dp"
+            android:text="Mad badad chagi : Tendangan melompat / slaiding kesamping"
+            android:textStyle="bold"
+            android:textColor="#232428"/>
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="14dp"
+            android:textColor="#000080"
+            android:text="3.Idan Yeoup Khurigi "
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="257dp"
+            android:layout_height="190dp"
+            android:src="@drawable/idan" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="10dp"
+            android:text="Idan Yeoup Khurigi : Tendangan mengkait kearah kepala dengan menggunakan telapak kaki depan."
+            android:textStyle="bold"
+            android:textColor="#232428"/>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Data"
+    android:background="#d1ede9">
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+    </android.support.design.widget.AppBarLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="67dp"
+        android:background="@drawable/icon" />
+
+    <TextView
+        android:layout_width="209dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="204dp"
+        android:text="Nama : Dina Sri Hartini"
+        android:background="@drawable/buttonshape"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        tools:ignore="RtlCompat" />
+
+    <TextView
+        android:layout_width="217dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="169dp"
+        android:background="@drawable/buttonshape"
+        android:text="Kelas : xi rpl 2"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        tools:ignore="RtlCompat,UnknownId" />
+
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="60dp"
+        android:background="@drawable/buttonshape"
+        android:text=" Gmail :dinahartini01@gmail.com"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        tools:ignore="RtlCompat,UnknownId" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="130dp"
+        android:background="@drawable/buttonshape"
+        android:text="No : 08986184610"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="95dp"
+        android:background="@drawable/buttonshape"
+        android:text="Id Line : dinsrih"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:layout_alignParentLeft="true"
+        tools:ignore="RtlCompat" />
+
+    <ImageButton
+        android:id="@+id/fb"
+        android:layout_width="150px"
+        android:layout_height="150px"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/bary"
+        tools:ignore="RtlCompat" />
+</RelativeLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bin">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="16dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="18dp"
+            android:text="Gerakan Dasar"
+            android:textAllCaps="true"
+            android:textColor="#800000"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="14dp"
+            android:text="
+            TINGKAT SABUK HITAM:"
+            android:textColor="#000000"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="379dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/taek" />
+
+        <ImageView
+            android:layout_width="379dp"
+            android:layout_height="359dp"
+            android:src="@drawable/gang" />
+
+        <ImageView
+            android:layout_width="379dp"
+            android:layout_height="283dp"
+            android:src="@drawable/ryo" />
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/putihini">
+    <ImageView
+        android:id="@+id/profile_image"
+        android:layout_width="209dp"
+        android:layout_height="96dp"
+        android:layout_above="@+id/btn_dataini"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/kwo" />
+
+    <ImageButton
+        android:id="@+id/btn_dataini"
+        android:layout_width="205dp"
+        android:layout_height="217dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="118dp"
+        android:background="@drawable/te"
+        tools:ignore="RtlCompat" />
+
+
+    <ImageButton
+        android:id="@+id/mail"
+        android:layout_width="65dp"
+        android:layout_height="55dp"
+        android:layout_alignEnd="@+id/profile_image"
+        android:layout_below="@+id/btn_dataini"
+        android:layout_marginTop="-118dp"
+        android:background="@drawable/smk"
+        tools:ignore="RtlCompat" />
+
+
+
+
+</RelativeLayout>

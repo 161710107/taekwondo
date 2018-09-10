@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bin">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="16dp"
+        android:orientation="vertical">
+
+
+
+
+        <ImageView
+            android:layout_width="275dp"
+            android:layout_height="234dp"
+            android:src="@drawable/sit" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="10dp"
+            android:text="sit up yakni sebuah gerakan yang bertumpu pada pinggul dan pantat kita dengan lutut yang diarahkan ke atas. Sit up memang sangat baik dilakukan dengan harapan agar kita mendapatkan khasiat yang baik pada tubuh kita. Memang awalnya sangat sulit dan sakit pada perut bagian bawah. Tetapi kalau sudah terbiasa akan terasa nyaman. Banyak para laki-laki melakukan gerakan sit up dengan baik agar perut mereka terbentuk dan sehat."
+
+            android:textStyle="bold"
+            android:textColor="#000080"/>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Taekwondo</string>
+    <string name="dinci">ini adalah yang hijauuu</string>
+    <string name="ini">Teknik Joochoom Seogi adalah gerakan kuda-kuda dengan posisi kedua buah kaki yang sejajar menghadap ke samping dengan lebar kurang lebih setengah ukuran bahu. Diikuti dengan posisi telapak kaki yang menghadap ke arah depan dengan bagian lutut yang sedikit ditekuk dan posisi badan tegap lurus ke arah depan.
+    </string>
+    <string name="itu">Teknik Momtong Jireugi adalah gerakan pukulan yang mengarah ke bagian tengah badan atau sejajar dengan bagian ulu hati. Pada gerakan ini kekuatan tangan menjadi tumpuannya. Dimana bagian telapak tangan menggegam lurus ke atas depan.</string>
+    <string name="apa">Mengeluarkan Arae Makki(untuk yang kiri) yaitu tarik tangan sampai diatas bahu dengan telapak tangan menggenggam menghadap kearah muka, kemudian sabetkan tangan kiri ke arah luar sampai lurus bahu kiri. Dan untuk yang kanan sebaliknya.
+perkenaan tangkisan yaitu berada diatas pergelangan tangan.</string>
+    <string name="kun">TINGKAT SABUK : KUNING POLOS - KUNING STRIP GEUP : IX-VIII
+Materi Teknik
+A.Teknik Tangan :
+\n-Doopalmok Makki : Tangkisan dua tangan kearah perut
+\n-Dobeon Jireugi : Pukulan dua kali arah perut
+\n-Sambion : Pukulan tiga kali arah kepala, leher, perut.
+\n-Chiq Jireugi : Pukulan kearah dagu.
+\n-Batangson momtong Makki : Tangkisan dengan telapak tangan kearah perut.
+\n-Sonnal Momtong Makki : Tangkisan kearah perut dgn telapak tangan bentuk sonal.
+\n-Hanson-al Momtong Makki : Tangkisan tangan menyilang di dada, satu dikepal yang menangkis membentuk sonal.
+\n-Momtong yeoup jireugi : Pukulan menyodok dari arah samping kearah perut.
+\nB.Tendangan ( Chagi )
+\n-Momtong Dollyo chagi : Tendangan melingkar kearah perut
+\n-Eolgol Dollyo chagi : Tendangan melingkar kearah kepala
+\n-Dwi Chagi : Tendangan balik menyodok kearah perut
+\n-Yeoup chagi : Tendangan balik menyodok kepala dengan pisau kaki
+\n-Yeoup Khurigi : Tendangan mengkait arah kepala
+\n-Idan Dollyo chagi : Tendangan melingkar dengan kaki depan.
+\n-Puti Chagi : Tendangan menampar dari luar kedalam
+\n-Puti Chumagi : Tendangan menampar dari dalam keluar</string>
+
+    <string name="hijau">Beom seogi
+        \n -ini adalah kuda-kuda dengan posisi kaki depan berada di belakang tapi menghadap lurus ke depan seperti langkah harimau. Tekuk kaki belakang supaya tumpuan berat badan ada pada kaki tersebut, sementara itu tekuklah kaki depan ke depan di mana pastikan ujung-ujung jari menyentuh lantai.
+         \n Ujung-ujung jari bagian kaki depan yang menyentuh lantai di sini artinya adalah seperti dalam posisi ketika kita berjinjit. Untuk menjaga keseimbangan juga masih tergolong sulit, namun bisa coba dilatih secara rutin.</string>
+    <string name="ye">Yeop chagi – Gerakan tendangan ini dilakukan menyamping ke kanan atau kiri memakai pisau kaki di mana tubuh diposisikan menghadap ke samping.
+
+\n Untuk gerakan ini, perlu untuk melatih keseimbangan juga karena posisi kaki penumpu berat badan juga harus dalam keadaan tegak lurus. Sedangkan untuk kaki yang digunakan menendang pun perlu menyamping ke kiri atau kanan tapi mengarah ke samping.</string>
+    <string name="biru">Dollyo chagi – Gerakan tendangan ini dilakukan ke samping dengan pinggang diputar maksimal. Kepala atau perut merupakan sasaran tendangan ini.
+Tendangan ini memerlukan putaran dengan kekuatan maksimal dan ketika menendang pun harus secara tepat sehingga target sasaran bisa dikenai tanpa meleset, yakni bagian kepala atau perut lawan.</string>
+    <string name="he">Hecho makki – Gerakan tangkisan satu ini adalah tangkisan ganda yang mengarah ke luar. Jadi ketika lawan berusaha untuk menyerang dari 2 arah (mungkin ada 2 lawan yang hendak menendang bagian samping atau bawah tubuh Anda), maka gerakan inilah yang paling pas untuk dipergunakan menangkisnya. Namun, pastikan bahwa kekuatan kedua tangan dalam kondisi penuh agar benar-benar bisa menangkis serangan lawan secara sempurna.</string>
+    <string name="hit">Sabuk Hitam melambangkan "Alam" yaitu ruang yang telah terisi penuh; kemampuan dan kematangan dalam penguasaan diri terhadap kedalaman ilmu beladiri yang dipelajari agar tidak terjerumus dalam kegelapan. Sabuk Hitam memiliki tingkatan yang disebut "DAN" dan tingkatan yang tertinggi adalah DAN 9 (sembilan). Penyandang DAN harus mempelajari Poomsae Lanjutan untuk meraih tingkatan tersebut.</string>
+    <string name="title_activity_data">My Biodata</string>
+    <string name="title_activity_smk">SMK ASSALAAM BANDUNG</string>
+    <string name="title_activity_fb">FACEBOOK</string>
+    <string name="title_activity_main">Tingkatan Sabuk</string>
+    <string name="action_settings">Settings</string>
+    <string name="one">ONE</string>
+    <string name="three">THREE</string>
+    <string name="two">TWO</string>
+    <string name="title_activity_simple_tabs">Simple Tabs</string>
+    <string name="font_fontFamily_medium">sans-serif-medium</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
